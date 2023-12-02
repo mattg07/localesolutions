@@ -1,0 +1,23 @@
+
+nav { 
+    position: absolute;
+    right: 0;
+    width: fit-content;
+    text-decoration: none;
+    display: flex;
+    padding-right: 50px;
+  }
+  
+  .nav li {font-size: 18px;
+    font-family: 'Poppins';
+    color: white;
+    padding-left:  30px;
+    display: inline-block;
+  }
+  
+*{ margin: 0%; }
+
+@media only screen and (max-width: 1040px) {
+   nav {
+display: none;    }
+  }
