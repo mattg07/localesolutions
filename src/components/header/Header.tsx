@@ -1,7 +1,7 @@
 import "./Header.css";
 import "../../index.css"
 import Navbar from "../navbar/Navbar";
-import logo from "../../assets/logo.png"
+import logo from "../../../public/assets/logo.png"
 
 const Header = () => {
   return (

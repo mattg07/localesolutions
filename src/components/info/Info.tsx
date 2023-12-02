@@ -1,14 +1,14 @@
 import "./Info.css";
-import imageone from "../../assets/infop.png";
-import imaged from "../../assets/infopd.png";
-import infotr from "../../assets/infotree.png";
-import bi from "../../assets/bi.png";
-import st from "../../assets/st.png";
-import bk from "../../assets/bk.png";
-import et from "../../assets/teather.png";
-import gp from "../../assets/group.png";
-import ls from "../../assets/clarity.png";
-import pc from "../../assets/pcimage.png";
+import imageone from "../../../public/assets/infop.png";
+import imaged from "../../../public/assets/infopd.png";
+import infotr from "../../../public/assets/infotree.png";
+import bi from "../../../public/assets/bi.png";
+import st from "../../../public/assets/st.png";
+import bk from "../../../public/assets/bk.png";
+import et from "../../../public/assets/teather.png";
+import gp from "../../../public/assets/group.png";
+import ls from "../../../public/assets/clarity.png";
+import pc from "../../../public/assets/pcimage.png";
 const Info = () => {
   return (
     <div className="wrapper">

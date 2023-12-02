@@ -1,5 +1,5 @@
 import "./Footer.css";
-import ft from "../../assets/ft.png";
+import ft from "../../../public/assets/ft.png";
 export const Footer = () => {
   return (
     <div>
