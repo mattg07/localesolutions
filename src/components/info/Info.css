@@ -99,7 +99,7 @@ span {
   background-size: cover;
   background-position: center;
   width: 50%;
-  background-image: url(../../assets/locale-pg.png);
+  background-image: url(../../../public/assets/locale-pg.png);
   background-size: cover;
 }
 .about-h2 {
@@ -135,7 +135,7 @@ span {
 
 #div3 {
   width: 50%;
-  background-image: url(../../assets/skyscrapper.jpg);
+  background-image: url(../../../public/assets/skyscrapper.jpg);
   background-size: cover;
 }
 
@@ -144,7 +144,7 @@ span {
 }
 .offers-section {
   height: 3050px;
-  background-image: url(../../assets/offerbg.png);
+  background-image: url(../../../public/assets/offerbg.png);
   background-size: cover;
 }
 .offers-bar {
@@ -172,7 +172,7 @@ span {
 .pic-one,
 .pic-three,
 .pic-five {
-  background-image: url(../../assets/stockone.jpg);
+  background-image: url(../../../public/assets/stockone.jpg);
   width: 921px;
   height: 458px;
   flex-shrink: 0;
@@ -210,7 +210,7 @@ span {
 
 .pic-two {
   margin-left: auto;
-  background-image: url(../../assets/stocktwo.png);
+  background-image: url(../../../public/assets/stocktwo.png);
   width: 921px;
   height: 458px;
   flex-shrink: 0;
@@ -246,7 +246,7 @@ span {
   color: white;
 }
 .pic-three {
-  background-image: url(../../assets/stockthree.png);
+  background-image: url(../../../public/assets/stockthree.png);
   width: 921px;
   height: 458px;
   flex-shrink: 0;
@@ -284,7 +284,7 @@ span {
 
 .pic-four {
   margin-left: auto;
-  background-image: url(../../assets/stockfour.png);
+  background-image: url(../../../public/assets/stockfour.png);
   width: 921px;
   height: 458px;
   flex-shrink: 0;
@@ -320,7 +320,7 @@ span {
   color: white;
 }
 .pic-five {
-  background-image: url(../../assets/stockfive.png);
+  background-image: url(../../../public/assets/stockfive.png);
   width: 921px;
   height: 458px;
   flex-shrink: 0;
@@ -455,7 +455,7 @@ span {
 
 .phone {
   background-size: cover;
-  background-image: url(../../assets/locale.png);
+  background-image: url(/public/assets/locale-pg.png);
   flex: 1;
   display: flex;
   align-items: center;
@@ -604,13 +604,12 @@ form button {
   .pic-five {
     margin: 0;
     margin-top: 10px;
-    margin-left: 38px;
     text-align: center;
     margin-bottom: 15px;
     display: grid;
     background-size: cover;
-    border-radius: 5px;
-    width: 410px;
+    border-radius: 10px;
+    width: auto;
   }
   .square-info {
     text-align: center;
